@@ -5,8 +5,6 @@ Structure:
   This was my first time using the Pygame library to create something not just out of a tutorial. So as a result, the structure is horrid.
   Everything is in one file, there are classes but they dont have files for them. Lots of case statements and nested for loops. 
 
-  The 
-
 ## using a venv
 - ```bash
   virtualenv venv
