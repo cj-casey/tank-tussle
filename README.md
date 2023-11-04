@@ -7,6 +7,14 @@ Structure:
 
   The 
 
+## using a venv
+- ```bash
+  virtualenv venv
+  source ./venv/bin/activate
+  pip install -r requirements.txt
+  ```
+- After that you're ready - `python main.py`
+
 
 
 Features: 
